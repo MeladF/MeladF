@@ -4,7 +4,7 @@
 
 I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
 
-- 🔭 I’m currently an IT student at TU-Dortmund.
+- 🔭 I’m an IT student at TU-Dortmund.
 - 📚 I’m currently learning software development and Fornt web development.
-- 👯 I’m looking for a software development Jod as a Student. 
+- 👯 I’m looking for Job as a Student. 
 - 📫 How to reach me: [Linkedin](www.linkedin.com/in/melad-faraj-487503295) [Gmail](mailto:melad.faraj.2013@gmail.com)
